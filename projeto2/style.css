@@ -1,0 +1,88 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin-left: 42px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.link-header{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #3d172e;
+    display: inline-block;
+    margin-left: 47px;
+    cursor: pointer;
+}
+
+.button-header{
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 102px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.img-logo{
+    width: 475px;
+    height: 400px;
+    margin-left: 121px;
+    margin-top: 18px;
+    display: inline-block;
+    
+}
+
+section{
+    display: inline-block;
+    margin-bottom: 55px;
+}
+
+
+    
+
+h1{
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    letter-spacing: 0.5px;
+    height: 99px;
+    width: 493px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 55px;
+}
+
+.button-main{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+    width: 112px;
+    height: 27px;
+    margin-left: 654px;
+    margin-right: 527px;
+    display: inline-block;
+
+    
+}
