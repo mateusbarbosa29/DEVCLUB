@@ -84,6 +84,9 @@ p{
     cursor: pointer;
     filter: drop-shadow(0px 4px 4px black) ;
     margin-bottom: 20px;
+}
 
-
+.button-main:hover{
+    background-color: #2c87ac;
+    color: #ffff;
 }
